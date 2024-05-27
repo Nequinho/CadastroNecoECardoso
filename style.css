@@ -1,0 +1,30 @@
+body {
+    background-image: url(wallhaven-jx5q6w.png);
+    text-align: center;
+}
+.titulo {
+    color: white;
+}
+.nome, .Sobrenome, .email, .telefone, .bairro, .cidade, .cep, .estado, .observacao {
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    
+}
+.input {
+    border-radius: 10px;
+    padding: 5px;
+    background-color: rgb(255, 254, 210);
+}
+.botao {
+    background-color: rgb(240, 166, 7);
+    color: rgb(250, 250, 250);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    border-radius: 50px;
+    height: 80px;
+    width: 180px;
+    position: absolute;
+    top:74%; /*posiciona no meio verticalmente*/
+    left: 44%; /*posiciona no meio horizontalmente*/
+}
